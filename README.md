@@ -1,10 +1,17 @@
-# British Airways Flight Booking Prediction
+# Flight Booking Prediction Model
 
 This project builds a machine learning model to predict whether a customer will complete a flight booking.
 
 ## Business Problem
 
 Airlines need to understand which customers are likely to convert in order to optimise targeting, pricing strategy, and revenue planning.
+
+## Business value
+Allows airlines to target high-probability customers and improve conversion rates.
+
+## Result
+- Model achieved PR-AUC of 0.35 on imbalanced dataset.
+- Identified booking origin, route, and baggage selection as strongest predictors.
 
 ## Approach
 
