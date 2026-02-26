@@ -152,7 +152,9 @@ These findings indicate that:
 
 - Historical route conversion behaviour is highly predictive  
 - Customer behavioural timing patterns strongly influence conversion  
-- Route-specific and origin-specific behavioural signals are critical predictors  
+- Route-specific and origin-specific behavioural signals are critical predictors
+  
+<img width="890" height="528" alt="screenshot" src="https://github.com/user-attachments/assets/9006512e-3436-4173-a938-54a7c2015439" />
 
 The engineered statistical features significantly improved model performance beyond raw booking attributes.
 
